@@ -35,3 +35,4 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::get('/contact', [App\Http\Controllers\ContactController::class, 'index'])->name('contact');
 Route::get('/pricing', [App\Http\Controllers\PricingController::class, 'index'])->name('pricing');
 Route::get('/settings', [App\Http\Controllers\SettingController::class, 'index'])->name('settings');
+Route::get('/traits', [App\Http\Controllers\TraitsSController::class, 'index'])->name('traits');

@@ -117,35 +117,36 @@
 
 	<!-- Component Start -->
 	<div class="flex flex-col items-center w-16  overflow-hidden text-gray-400 bg-gray-900 rounded">
-		<a class="flex items-center justify-center mt-3" href="#">
+		<a class="flex items-center justify-center mt-3" href="ddd#">
 			<svg class="w-8 h-8 fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
 				<path d="M11 17a1 1 0 001.447.894l4-2A1 1 0 0017 15V9.236a1 1 0 00-1.447-.894l-4 2a1 1 0 00-.553.894V17zM15.211 6.276a1 1 0 000-1.788l-4.764-2.382a1 1 0 00-.894 0L4.789 4.488a1 1 0 000 1.788l4.764 2.382a1 1 0 00.894 0l4.764-2.382zM4.447 8.342A1 1 0 003 9.236V15a1 1 0 00.553.894l4 2A1 1 0 009 17v-5.764a1 1 0 00-.553-.894l-4-2z" />
 			</svg>
 		</a>
 		<div class="flex flex-col items-center mt-3 border-t border-gray-700">
-			<a class="flex items-center justify-center w-12 h-12 mt-2 rounded hover:bg-gray-700 hover:text-gray-300" href="#">
+			<a class="flex items-center justify-center w-12 h-12 mt-2 rounded hover:bg-gray-700 hover:text-gray-300" href="ccc#">
 				<svg class="w-6 h-6 stroke-current" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 				 	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
 				</svg>
 			</a>
-			<a class="flex items-center justify-center w-12 h-12 mt-2 rounded hover:bg-gray-700 hover:text-gray-300" href="#">
-				<svg class="w-6 h-6 stroke-current" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-				</svg>
+			<a class="flex items-center justify-center w-12 h-12 mt-2 rounded hover:bg-gray-700 hover:text-gray-300" href="/pricing">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-play-circle" viewBox="0 0 16 16">
+               <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"></path>
+               <path d="M6.271 5.055a.5.5 0 0 1 .52.038l3.5 2.5a.5.5 0 0 1 0 .814l-3.5 2.5A.5.5 0 0 1 6 10.5v-5a.5.5 0 0 1 .271-.445z"></path>
+            </svg>
 			</a>
 		
 			
 		</div>
 		<div class="flex flex-col items-center mt-2 border-t border-gray-700">
-			
-			<a class="flex items-center justify-center w-12 h-12 mt-2 rounded hover:bg-gray-700 hover:text-gray-300" href="#">
+
+			<a class="flex items-center justify-center w-12 h-12 mt-2 rounded hover:bg-gray-700 hover:text-gray-300" href="/settings">
 				<svg class="w-6 h-6 stroke-current"  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
 				</svg>
 			</a>
 			
 		</div>
-		<a class="flex items-center justify-center w-16 h-16 mt-auto bg-gray-800 hover:bg-gray-700 hover:text-gray-300" href="#">
+		<a class="flex items-center justify-center w-16 h-16 mt-auto bg-gray-800 hover:bg-gray-700 hover:text-gray-300" href="/settings">
 			<svg class="w-6 h-6 stroke-current" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 				<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
 			</svg>
@@ -201,12 +202,12 @@
                </div>
             </div>
             <div class="flex-1 flex xl:overflow-hidden">
-               <nav aria-label="Sections" class="hidden flex-shrink-0 w-96 bg-white border-r border-gray-200 xl:flex xl:flex-col">
+               <nav aria-label="Sections" class="hiddennot flex-shrink-0 w-96 bg- border-r border-gray-200 xl:flex xl:flex-col">
                   <div class="flex-shrink-0 h-16 px-6 border-b border-gray-200 flex items-center">
                      <p class="text-lg font-medium text-blue-gray-900">Settings</p>
                   </div>
                   <div class="flex-1 min-h-0 overflow-y-auto">
-                     <a class="flex p-6 border-b border-gray-200 hover:bg-blue-50 hover:bg-opacity-50 bg-blue-50" href="/app/settings">
+                     <a class="flex p-6 border-b border-gray-200 hover:bg-blue-50 hover:bg-opacity-50 bg-blue-50" href="/settings">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true" class="flex-shrink-0 -mt-0.5 h-6 w-6 text-gray-400">
                            <path stroke-linecap="round" stroke-linejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path>
                            <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
@@ -216,7 +217,7 @@
                            <p class="mt-1 text-gray-500">Configure metadata and commission.</p>
                         </div>
                      </a>
-                     <a class="flex p-6 border-b border-gray-200 hover:bg-blue-50 hover:bg-opacity-50" href="/app/settings/weighting">
+                     <a class="flex p-6 border-b border-gray-200 hover:bg-blue-50 hover:bg-opacity-50" href="/traits">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true" class="flex-shrink-0 -mt-0.5 h-6 w-6 text-gray-400">
                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
                         </svg>
@@ -225,15 +226,7 @@
                            <p class="mt-1 text-gray-500">Adjust trait names and rarity.</p>
                         </div>
                      </a>
-                     <a class="flex p-6 border-b border-gray-200 hover:bg-blue-50 hover:bg-opacity-50" href="/app/settings/output">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true" class="flex-shrink-0 -mt-0.5 h-6 w-6 text-gray-400">
-                           <path stroke-linecap="round" stroke-linejoin="round" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
-                        </svg>
-                        <div class="ml-3 text-sm">
-                           <p class="font-medium text-gray-900">Render Settings</p>
-                           <p class="mt-1 text-gray-500">Dimensions, quality and file format.</p>
-                        </div>
-                     </a>
+                     
                   </div>
                </nav>
                <div class="flex-1 xl:overflow-y-auto">
@@ -246,7 +239,7 @@
                            <div id="headlessui-radiogroup-15" role="radiogroup" aria-labelledby="headlessui-label-16">
                               <label id="headlessui-label-16" class="sr-only" role="none"> Select a blockchain </label>
                               <div class="mt-4 grid grid-cols-1 gap-y-6 sm:grid-cols-3 sm:gap-x-4" role="none">
-                                 <div class="border-transparent relative bg-white border rounded-lg shadow-sm p-4 flex cursor-pointer focus:outline-none" id="headlessui-radiogroup-option-17" role="radio" aria-checked="true" tabindex="0" aria-labelledby="headlessui-label-18">
+                                 <div class="border-transparent relative bg- border rounded-lg shadow-sm p-4 flex cursor-pointer focus:outline-none" id="headlessui-radiogroup-option-17" role="radio" aria-checked="true" tabindex="0" aria-labelledby="headlessui-label-18">
                                     <div class="flex-1 flex">
                                        <div class="flex flex-1 justify-center">
                                           <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2568 643" xml:space="preserve" class="h-8">
@@ -295,7 +288,7 @@
                                     </svg>
                                     <div class="border-2 border-blue-500 absolute -inset-px rounded-lg pointer-events-none" aria-hidden="true"></div>
                                  </div>
-                                 <div class="border-gray-300 relative bg-white border rounded-lg shadow-sm p-4 flex cursor-pointer focus:outline-none" id="headlessui-radiogroup-option-19" role="radio" aria-checked="false" tabindex="-1" aria-labelledby="headlessui-label-20">
+                                 <div class="border-gray-300 relative bg- border rounded-lg shadow-sm p-4 flex cursor-pointer focus:outline-none" id="headlessui-radiogroup-option-19" role="radio" aria-checked="false" tabindex="-1" aria-labelledby="headlessui-label-20">
                                     <div class="flex-1 flex">
                                        <div class="flex flex-1 justify-center">
                                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 270.6" class="h-8">
@@ -325,7 +318,7 @@
                                     </svg>
                                     <div class="border-2 border-transparent absolute -inset-px rounded-lg pointer-events-none" aria-hidden="true"></div>
                                  </div>
-                                 <div class="border-gray-300 relative bg-white border rounded-lg shadow-sm p-4 flex cursor-pointer focus:outline-none" id="headlessui-radiogroup-option-21" role="radio" aria-checked="false" tabindex="-1" aria-labelledby="headlessui-label-22">
+                                 <div class="border-gray-300 relative bg- border rounded-lg shadow-sm p-4 flex cursor-pointer focus:outline-none" id="headlessui-radiogroup-option-21" role="radio" aria-checked="false" tabindex="-1" aria-labelledby="headlessui-label-22">
                                     <div class="flex-1 flex">
                                        <div class="flex flex-1 justify-center">
                                           <svg viewBox="0 0 1024 225" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-8">
