@@ -10,7 +10,7 @@
           <h1>The Toolkit You <br>Need for Creating <br>Your NFTs</h1>
           <h2>Create your NFT collection control your ranities, and export images and metadata</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started scrollto">Lunch app</a>
+            <a href="/pricing" class="btn-get-started scrollto">Lunch app</a>
             <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
         </div>
